@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://fahmid2003/github.com/COMP3104",
+  "homepage":"https://fahmid2003.github.com/COMP3104",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/fahmid2003/COMP3104/issues"
   },
-  "homepage": "https://fahmid2003/github.com/COMP3104",
+
 
     "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
